@@ -5,7 +5,7 @@
 # Global variable definition
 LOGDIR="../log"
 LOGFILE="push_my_ip.log"
-USER=ferree
+USER=edavid2
 
 # Init logger helper function
 init_log () {
