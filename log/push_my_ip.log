@@ -1,0 +1,6 @@
+Fri Oct 9 01:23:51 PM PDT 2026 : start main with timestamp: Fri Oct  9 01:23:51 PM PDT 2026
+Fri Oct 9 01:23:52 PM PDT 2026 : start get_my_ips
+Fri Oct 9 01:23:52 PM PDT 2026 : IP found:
+Fri Oct 9 01:23:52 PM PDT 2026 : - wlan0 : 10.133.0.157 [SSH](ssh://edavid2@10.133.0.157) [SFTP](sftp://edavid2@10.133.0.157) - Signal strength: 52%
+Fri Oct 9 01:23:52 PM PDT 2026 : committing to git repo
+Fri Oct 9 01:23:52 PM PDT 2026 : done
